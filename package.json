@@ -1,0 +1,15 @@
+{
+  "name": "clash-royale-lambda",
+  "version": "1.0.0",
+  "description": "AWS Lambda pour récupérer les informations d'un clan dans Clash Royale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
